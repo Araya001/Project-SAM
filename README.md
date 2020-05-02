@@ -6,7 +6,7 @@ Hello, it's `ParkingLot`
 1. Open ParkingLot in editor and run it.
 
 ## Comand - Support
-`create_parking_slot`      create parking slot to wait car for park. 
+`create_parking_slot`      create parking slot to wait car for park. <br>
 `park`                     command to park car in ParkingLot.        
 `leave`                    command to unpark car in ParkingLot.      
 `status`                   command to check status of slot in ParkingLot.        
