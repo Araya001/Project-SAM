@@ -6,10 +6,10 @@ Hello, it's `ParkingLot`
 1. Open ParkingLot in editor and run it.
 
 ## Comand - Support
-`create_parking_slot`      create parking slot to wait car for park. <br>
-`park`                     command to park car in ParkingLot.        
-`leave`                    command to unpark car in ParkingLot.      
-`status`                   command to check status of slot in ParkingLot.        
-`registration_numbers_for_cars_with_colour`           command to filter register number by color.
-`slot_numbers_for_cars_with_colour`                   command to filter slot number by color.
-`slot_number_for_registration_number`                 command to filter slot number by register number.
+`create_parking_slot`      &nbsp;&nbsp;&nbsp;create parking slot to wait car for park. <br>
+`park`                     &nbsp;&nbsp;&nbsp;command to park car in ParkingLot.        <br>
+`leave`                    &nbsp;&nbsp;&nbsp;command to unpark car in ParkingLot.      <br>
+`status`                   &nbsp;&nbsp;&nbsp;command to check status of slot in ParkingLot.    <br>    
+`registration_numbers_for_cars_with_colour`           &nbsp;&nbsp;&nbsp;command to filter register number by color. <br>
+`slot_numbers_for_cars_with_colour`                   &nbsp;&nbsp;&nbsp;command to filter slot number by color. <br>
+`slot_number_for_registration_number`                 &nbsp;&nbsp;&nbsp;command to filter slot number by register number. <br>
