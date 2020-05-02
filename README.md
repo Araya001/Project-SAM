@@ -1,3 +1,3 @@
-| Attempt | #1  | #2  |
+|            Comand             |           Description         |               Example             |
 | :-----: | :-: | :-: |
 | Seconds | 301 | 283 |
